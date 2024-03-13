@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asacpro
+- 👋 Hi, I’m Alex @asacpro
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning git on 2024-02-09
 - 💞️ I’m looking to collaborate
